@@ -159,7 +159,7 @@ streamlit run app.py
 - *请根据用户数据生成一份个性化使用报告*（报告生成 + 工具调用）
 
 ## 项目结构
-
+```
 LangChain-ReAct-Agent/                    # 项目根目录
 │
 ├── agent/                                # Agent 核心模块
@@ -216,6 +216,7 @@ LangChain-ReAct-Agent/                    # 项目根目录
 └── logs/                                 # 日志目录（自动生成，按日期保存 agent_YYYYMMDD.log）
     ├── agent_20260516.log
     └── agent_20260517.log
+```
 
 ## 配置说明
 
