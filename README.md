@@ -234,5 +234,3 @@ LangChain-ReAct-Agent/                    # 项目根目录
 ## License
 
 MIT © [lhh737](https://github.com/lhh737) & [sad789sad](https://github.com/sad789sad)
-
-本项目基于 [lhh737/LangChain-ReAct-Agent](https://github.com/lhh737/LangChain-ReAct-Agent) 二次开发。
